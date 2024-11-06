@@ -18,7 +18,7 @@ To access the code, the github link is  https://github.com/chasewaldron2400/E-Co
 
 MIT License
 
-Copyright (c) 2024 Pawsitive Connections
+Copyright (c) 2024
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
